@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-pr-creator": {
+      "source": "ravnhq/ai-toolkit",
+      "sourceType": "github",
+      "skillPath": ".claude-plugin/plugins/agent-pr-creator/skills/agent-pr-creator/SKILL.md",
+      "computedHash": "08a40e59a3c11fae081aa89edfd7c10c9d7d99e0520bcbc3e715bbd6a734550c"
+    }
+  }
+}
