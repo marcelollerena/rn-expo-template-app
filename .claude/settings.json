@@ -1,6 +1,7 @@
 {
   "enabledPlugins": {
     "expo@claude-plugins-official": true,
-    "agent-pr-creator@ravn-ai-toolkit": true
+    "agent-pr-creator@ravn-ai-toolkit": true,
+    "react-native-best-practices@callstack-agent-skills": true
   }
 }
