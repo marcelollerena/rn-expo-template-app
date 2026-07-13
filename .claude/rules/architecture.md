@@ -1,6 +1,6 @@
 # Architecture
 
-This document describes the current architecture, conventions, and extension points used in this minky-couture-app
+This document describes the current architecture, conventions, and extension points used in this template app.
 
 ## Directory Structure
 
